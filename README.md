@@ -18,7 +18,7 @@ Variables are declared using the `let` keyword:
 ```
 let x = 5
 let y = 3.14
-let name = "John"
+let name = "SenthilSivakumar"
 ```
 
 ### Data Types
