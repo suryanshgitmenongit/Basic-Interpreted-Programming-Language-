@@ -73,3 +73,10 @@ Currently,  does not support user-defined functions. All operations are performe
 
 Make sure to initialise variables you'll use before you use them 
 
+
+###References:
+https://www.youtube.com/watch?v=1WpKsY9LBlY, https://github.com/VOYAGERX013/ShadowScript
+and
+Ruslan Spivak's blog post:
+https://ruslanspivak.com/lsbasi-part1/
+
