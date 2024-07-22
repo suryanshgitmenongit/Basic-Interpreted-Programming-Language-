@@ -75,6 +75,7 @@ Make sure to initialise variables you'll use before you use them
 
 
 ###References:
+Couldn't have made this without:
 https://www.youtube.com/watch?v=1WpKsY9LBlY, https://github.com/VOYAGERX013/ShadowScript
 and
 Ruslan Spivak's blog post:
