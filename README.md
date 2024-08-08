@@ -1,13 +1,8 @@
-# Basic-Interpreted-Programming-Language
+# Thoth-Interpreted-Programming-Language
 Documentation:
-
-Here's a detailed Markdown documentation for the language:
 
 ```markdown
 
-## Introduction
-
-brr is a minimalist programming language designed for educational purposes. It offers basic programming constructs while maintaining a simple syntax, making it ideal for beginners or for demonstrating language implementation concepts.
 
 ## Language Basics
 
@@ -58,10 +53,6 @@ while x < 10 do
 for let i = 0; i < 5; let i = i + 1 do
     let x = x + i
 ```
-
-## Built-in Functions
-
-Currently,  does not support user-defined functions. All operations are performed using the built-in operators and control structures.
 
 ## Error Handling
 
