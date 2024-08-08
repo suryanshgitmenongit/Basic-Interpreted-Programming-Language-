@@ -1,4 +1,3 @@
-# Thoth-Interpreted-Programming-Language
 Documentation:
 
 ```markdown
